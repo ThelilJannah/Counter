@@ -1,0 +1,54 @@
+body{
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+
+}
+
+h1{
+  margin: 10px 0px;
+}
+
+h2{
+  font-size: 80px;
+  margin: 0px 20px 0px;
+}
+
+.increase-btn{
+  background-color: brown;
+  padding: 20px 80px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.decrease-btn{
+  background-color: #30a52a ;
+  padding: 20px 80px;
+  border-radius: 10px;
+  border: none;
+  margin-top: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.save-btn{
+  background-color: #000000;
+  padding: 20px 80px;
+  border-radius: 10px;
+  border: none;
+  margin: 50px auto 0;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+  display: block;
+
+}
